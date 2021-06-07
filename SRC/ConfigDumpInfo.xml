@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
+	<ConfigVersions>
+		<Metadata name="Catalog.НаборыДополнительныхРеквизитовИСведений" id="52f60d98-d8a5-4e60-b3d2-6d5213443c5d" configVersion="4618274cba0b3a067b716047df28a9bd297b37b7"/>
+		<Metadata name="Catalog.НаборыДополнительныхРеквизитовИСведений.Predefined" id="52f60d98-d8a5-4e60-b3d2-6d5213443c5d.1c" configVersion="4b4f9b6abbb8f8257a3b5a1e25766c8a45b78a9b"/>
+		<Metadata name="ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения" id="50ebd4c7-915c-448a-bfc7-c7ea005a17e1" configVersion="8fe696ae3b0d16cdd789ea399ef837d3b1de6eed"/>
+		<Metadata name="CommonForm.ОтправкаСообщенияБП" id="e3c55dda-c707-4ef8-b628-4202fc1c7375" configVersion="9e0ef9d55767e93c8471d57b97927b06eff38b1a"/>
+		<Metadata name="CommonForm.ОтправкаСообщенияБП.Form" id="e3c55dda-c707-4ef8-b628-4202fc1c7375.0" configVersion="b0ca6cfbcf62a09b02251a5de9042229a47496ff"/>
+		<Metadata name="CommonModule.PEN006_МодификацияИнтерфейсаСервер" id="85c9b1c0-50c6-4c14-ba39-8fb2e786100c" configVersion="e96200c9df5113408228f9c65e0d86c4cc94a6ca"/>
+		<Metadata name="CommonModule.PEN006_МодификацияИнтерфейсаСервер.Module" id="85c9b1c0-50c6-4c14-ba39-8fb2e786100c.0" configVersion="e47c5feb2c4230b1323a5cbb799a86c375fef9fa"/>
+		<Metadata name="CommonModule.PEN006_ОбщийМодульВызовСервера" id="9489abfe-add4-431d-9e57-43909e0e6398" configVersion="627e931021ce6a8a81da66634bdb7f9608667e70"/>
+		<Metadata name="CommonModule.PEN006_ОбщийМодульВызовСервера.Module" id="9489abfe-add4-431d-9e57-43909e0e6398.0" configVersion="610d53e27adfd957e75f0579d7a12a1a14fd5092"/>
+		<Metadata name="CommonModule.PEN006_ОбщийМодульКлиент" id="1022381e-558b-4263-8cc6-2d67676e5570" configVersion="9ff46c1e01d41d25c28f08897f66c64d8edda3f1"/>
+		<Metadata name="CommonModule.PEN006_ОбщийМодульКлиент.Module" id="1022381e-558b-4263-8cc6-2d67676e5570.0" configVersion="bcbb6512991cd65ab5008d64ca4134bc84dfb37a"/>
+		<Metadata name="CommonModule.ОтправкаПочтовыхСообщенийКлиент" id="d06c0f55-015e-4184-b3c4-b4ac2fbc189e" configVersion="c77caa1b432871e3e61a0ee2941c90af45665707"/>
+		<Metadata name="CommonModule.ОтправкаПочтовыхСообщенийКлиент.Module" id="d06c0f55-015e-4184-b3c4-b4ac2fbc189e.0" configVersion="a896a253f3f7a0e793eab63a199bc1e7022bade7"/>
+		<Metadata name="CommonModule.УправлениеПечатьюКлиентПереопределяемый" id="6e89935c-f12c-454d-b868-dec86c71f352" configVersion="d30981c8b26cabc6b3eaff82a4c66f453fb0338f"/>
+		<Metadata name="CommonModule.УправлениеПечатьюКлиентПереопределяемый.Module" id="6e89935c-f12c-454d-b868-dec86c71f352.0" configVersion="5d6be6fdb60946a8f6f136962e083d8613de942a"/>
+		<Metadata name="CommonPicture.PEN006_КартинкаПочта" id="a8405494-b91e-4f3c-84b7-11f36883f512" configVersion="c22205ca258e6de3f0ebe2756de46ee0ad5b44c7"/>
+		<Metadata name="CommonPicture.PEN006_КартинкаПочта.Picture" id="a8405494-b91e-4f3c-84b7-11f36883f512.0" configVersion="efbf5ca812dfe238aee551abe069a39dcf35c991"/>
+		<Metadata name="CommonPicture.PEN006_КартинкаПочта_h" id="71a239f4-65f5-4e9c-95ea-f86f5b3f30c1" configVersion="9e2e01cdba78fbce09169815b5b3a09698bfb376"/>
+		<Metadata name="CommonPicture.PEN006_КартинкаПочта_h.Picture" id="71a239f4-65f5-4e9c-95ea-f86f5b3f30c1.0" configVersion="8c4f2d5a2dec431445ba3f405041eb2e0303ef0d"/>
+		<Metadata name="CommonPicture.ЗаполнитьФорму" id="998865de-0523-4200-b424-302d782f54ed" configVersion="70a17d01a75c5c381766d11807eeb32d19f0061c"/>
+		<Metadata name="CommonPicture.Отчеты" id="f23e15d8-9706-4337-8715-d9c738e7a370" configVersion="46a381938d378ad242442d62ccfbf280688831e3"/>
+		<Metadata name="CommonPicture.Скрепка" id="cdd698f0-a559-4f8b-b206-0f4fe158fdd5" configVersion="503eb5f2403a88f87557570443e414208597d5ef"/>
+		<Metadata name="CommonPicture.СостоянияДокумента" id="a05caedd-d24b-4032-95db-31ebeadc66a9" configVersion="5e1789ba4651017e829c797a2081c7a60aa6e4f0"/>
+		<Metadata name="Configuration.PEN006_BUH_POST" id="9a6af253-1de6-4a33-9ee5-ad74032b32e8" configVersion="20a7c739a4417fcd172388da72873129c07bc5bb"/>
+		<Metadata name="Document.РеализацияТоваровУслуг" id="864bf5b1-5500-48bc-b25f-53498f0c2f8a" configVersion="24296bd3784e4e1b8f1b6ce5d3e7612f320962d2"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.Form.ФормаСписка" id="76844c72-dfa4-42d8-9325-6b140dcf41a1" configVersion="514fc4620b3bae566f0d5999cf3d4d509df86ecd"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.Form.ФормаСписка.Form" id="76844c72-dfa4-42d8-9325-6b140dcf41a1.0" configVersion="9fdb79ecf2bb2b7902ae22908090d4798bd67e27"/>
+		<Metadata name="Document.СчетНаОплатуПокупателю" id="bc7a59ff-bc8a-46a5-b7f5-24bd1afd9193" configVersion="9be6979a9b5697cacc656cdd064efe8b2ee9ec69"/>
+		<Metadata name="Document.СчетНаОплатуПокупателю.Form.ФормаСписка" id="a82e3b52-8ee8-4f23-b786-e7ed18d6a7c7" configVersion="aff90bf81e25556412cbd7ef72ec8944953fb4dd"/>
+		<Metadata name="Document.СчетНаОплатуПокупателю.Form.ФормаСписка.Form" id="a82e3b52-8ee8-4f23-b786-e7ed18d6a7c7.0" configVersion="8367e282c85ca238f3a27fc236fe2f17ffc08322"/>
+		<Metadata name="InformationRegister.ДополнительныеСведения" id="02109873-4fa1-4f8b-8154-cce4ebfac491" configVersion="b46b893c6e60fdfee07c53224448d6c71c409489"/>
+		<Metadata name="Language.Русский" id="cd3eb32b-df88-4aa5-8e91-1e7cf13a7358" configVersion="169f7a34249e45d749c5ad4eecad04d9c09741b5"/>
+		<Metadata name="StyleItem.БыстрыеОтборыФонГруппы" id="2a2aa280-2f3e-4c9a-aff0-66a600a04b5a" configVersion="59a0196c690445af99c10cfeac0b01ea15ff2f7a"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

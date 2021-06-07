@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.12">
+	<Item id="204623f0-a6a0-41bc-96ba-36eef0b24a2f">
+		<Name>Документ_РеализацияТоваровУслуг</Name>
+		<Code/>
+		<Description>Документ "Реализация (акты, накладные)"</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="db9dc981-4f83-4862-8390-2fc1e7f1b5eb">
+		<Name>Документ_СчетНаОплатуПокупателю</Name>
+		<Code/>
+		<Description>Документ "Счет на оплату покупателю"</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
