@@ -51,7 +51,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor/>
-			<Version>1.01</Version>
+			<Version>1.02</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation>
@@ -84,11 +84,15 @@
 			<CommonPicture>Отчеты</CommonPicture>
 			<CommonPicture>PEN006_КартинкаПочта_h</CommonPicture>
 			<CommonPicture>PEN006_КартинкаПочта</CommonPicture>
+			<CommonPicture>PEN006_email</CommonPicture>
+			<CommonPicture>PEN006_Конверт</CommonPicture>
 			<CommonModule>PEN006_ОбщийМодульВызовСервера</CommonModule>
 			<CommonModule>PEN006_ОбщийМодульКлиент</CommonModule>
 			<CommonModule>PEN006_МодификацияИнтерфейсаСервер</CommonModule>
 			<CommonModule>УправлениеПечатьюКлиентПереопределяемый</CommonModule>
 			<CommonModule>ОтправкаПочтовыхСообщенийКлиент</CommonModule>
+			<CommonCommand>PEN006_ОтправленоПочтой</CommonCommand>
+			<CommonCommand>PEN006_ОтправленоEMail</CommonCommand>
 			<CommonForm>ОтправкаСообщенияБП</CommonForm>
 			<Catalog>НаборыДополнительныхРеквизитовИСведений</Catalog>
 			<Document>РеализацияТоваровУслуг</Document>
