@@ -11,9 +11,9 @@
 		<Metadata name="CommonForm.ОтправкаСообщенияБП" id="e3c55dda-c707-4ef8-b628-4202fc1c7375" configVersion="9e0ef9d55767e93c8471d57b97927b06eff38b1a"/>
 		<Metadata name="CommonForm.ОтправкаСообщенияБП.Form" id="e3c55dda-c707-4ef8-b628-4202fc1c7375.0" configVersion="b0ca6cfbcf62a09b02251a5de9042229a47496ff"/>
 		<Metadata name="CommonModule.PEN006_МодификацияИнтерфейсаСервер" id="85c9b1c0-50c6-4c14-ba39-8fb2e786100c" configVersion="acfd79425c9b20e9a77ddc30ac4302da1a39377a"/>
-		<Metadata name="CommonModule.PEN006_МодификацияИнтерфейсаСервер.Module" id="85c9b1c0-50c6-4c14-ba39-8fb2e786100c.0" configVersion="72b2690ba5cc30dea0d96ae4ed4e61cff60080ba"/>
-		<Metadata name="CommonModule.PEN006_ОбщийМодульВызовСервера" id="9489abfe-add4-431d-9e57-43909e0e6398" configVersion="627e931021ce6a8a81da66634bdb7f9608667e70"/>
-		<Metadata name="CommonModule.PEN006_ОбщийМодульВызовСервера.Module" id="9489abfe-add4-431d-9e57-43909e0e6398.0" configVersion="610d53e27adfd957e75f0579d7a12a1a14fd5092"/>
+		<Metadata name="CommonModule.PEN006_МодификацияИнтерфейсаСервер.Module" id="85c9b1c0-50c6-4c14-ba39-8fb2e786100c.0" configVersion="08c8eca63ceac09b2d3457b8b5b233c4a6ff7592"/>
+		<Metadata name="CommonModule.PEN006_ОбщийМодульВызовСервера" id="9489abfe-add4-431d-9e57-43909e0e6398" configVersion="37087176779bbd73164e25a9d390c8e5e61f65c9"/>
+		<Metadata name="CommonModule.PEN006_ОбщийМодульВызовСервера.Module" id="9489abfe-add4-431d-9e57-43909e0e6398.0" configVersion="a2d143a9b0cad967c35b322058bec0e6a06195d9"/>
 		<Metadata name="CommonModule.PEN006_ОбщийМодульКлиент" id="1022381e-558b-4263-8cc6-2d67676e5570" configVersion="f659332e0340673c5f987ac7cbee81e2d8e03fed"/>
 		<Metadata name="CommonModule.PEN006_ОбщийМодульКлиент.Module" id="1022381e-558b-4263-8cc6-2d67676e5570.0" configVersion="10c59d0566e8a1d97333ae71e7a2c8d45a78546e"/>
 		<Metadata name="CommonModule.ОтправкаПочтовыхСообщенийКлиент" id="d06c0f55-015e-4184-b3c4-b4ac2fbc189e" configVersion="c77caa1b432871e3e61a0ee2941c90af45665707"/>
