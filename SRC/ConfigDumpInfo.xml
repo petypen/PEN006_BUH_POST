@@ -32,7 +32,7 @@
 		<Metadata name="CommonPicture.Отчеты" id="f23e15d8-9706-4337-8715-d9c738e7a370" configVersion="46a381938d378ad242442d62ccfbf280688831e3"/>
 		<Metadata name="CommonPicture.Скрепка" id="cdd698f0-a559-4f8b-b206-0f4fe158fdd5" configVersion="503eb5f2403a88f87557570443e414208597d5ef"/>
 		<Metadata name="CommonPicture.СостоянияДокумента" id="a05caedd-d24b-4032-95db-31ebeadc66a9" configVersion="5e1789ba4651017e829c797a2081c7a60aa6e4f0"/>
-		<Metadata name="Configuration.PEN006_BUH_POST" id="9a6af253-1de6-4a33-9ee5-ad74032b32e8" configVersion="b95ec79ef0968dc0ae720440fc79a1037ad8b165"/>
+		<Metadata name="Configuration.PEN006_BUH_POST" id="9a6af253-1de6-4a33-9ee5-ad74032b32e8" configVersion="8ee2f60ae8955cd08676ee40f40c326a81b11353"/>
 		<Metadata name="Document.РеализацияТоваровУслуг" id="864bf5b1-5500-48bc-b25f-53498f0c2f8a" configVersion="24296bd3784e4e1b8f1b6ce5d3e7612f320962d2"/>
 		<Metadata name="Document.РеализацияТоваровУслуг.Form.ФормаСписка" id="76844c72-dfa4-42d8-9325-6b140dcf41a1" configVersion="514fc4620b3bae566f0d5999cf3d4d509df86ecd"/>
 		<Metadata name="Document.РеализацияТоваровУслуг.Form.ФормаСписка.Form" id="76844c72-dfa4-42d8-9325-6b140dcf41a1.0" configVersion="9fdb79ecf2bb2b7902ae22908090d4798bd67e27"/>
@@ -41,6 +41,10 @@
 		<Metadata name="Document.СчетНаОплатуПокупателю.Form.ФормаСписка.Form" id="a82e3b52-8ee8-4f23-b786-e7ed18d6a7c7.0" configVersion="8367e282c85ca238f3a27fc236fe2f17ffc08322"/>
 		<Metadata name="InformationRegister.ДополнительныеСведения" id="02109873-4fa1-4f8b-8154-cce4ebfac491" configVersion="b46b893c6e60fdfee07c53224448d6c71c409489"/>
 		<Metadata name="Language.Русский" id="cd3eb32b-df88-4aa5-8e91-1e7cf13a7358" configVersion="169f7a34249e45d749c5ad4eecad04d9c09741b5"/>
+		<Metadata name="Role.ДобавлениеИзменениеДанныхБухгалтерии" id="2917c998-0532-4d91-a00d-bcb845f171d8" configVersion="efed5640aa6cd23a237dea77fe9345d03c44aedf"/>
+		<Metadata name="Role.ДобавлениеИзменениеДанныхБухгалтерии.Rights" id="2917c998-0532-4d91-a00d-bcb845f171d8.0" configVersion="3d06bc07c989efd4787437b253cb840d0457e521"/>
+		<Metadata name="Role.ПодсистемаПродажи" id="800e9415-1d67-4f64-a905-cf1997ef0e9d" configVersion="b151e1ca439800e36e55925a1468a0dde83366c1"/>
+		<Metadata name="Role.ПодсистемаПродажи.Rights" id="800e9415-1d67-4f64-a905-cf1997ef0e9d.0" configVersion="3d06bc07c989efd4787437b253cb840d0457e521"/>
 		<Metadata name="StyleItem.БыстрыеОтборыФонГруппы" id="2a2aa280-2f3e-4c9a-aff0-66a600a04b5a" configVersion="59a0196c690445af99c10cfeac0b01ea15ff2f7a"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

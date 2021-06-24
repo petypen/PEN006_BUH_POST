@@ -51,7 +51,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor/>
-			<Version>1.02</Version>
+			<Version>1.03</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation>
@@ -86,6 +86,8 @@
 			<CommonPicture>PEN006_КартинкаПочта</CommonPicture>
 			<CommonPicture>PEN006_email</CommonPicture>
 			<CommonPicture>PEN006_Конверт</CommonPicture>
+			<Role>ПодсистемаПродажи</Role>
+			<Role>ДобавлениеИзменениеДанныхБухгалтерии</Role>
 			<CommonModule>PEN006_ОбщийМодульВызовСервера</CommonModule>
 			<CommonModule>PEN006_ОбщийМодульКлиент</CommonModule>
 			<CommonModule>PEN006_МодификацияИнтерфейсаСервер</CommonModule>
