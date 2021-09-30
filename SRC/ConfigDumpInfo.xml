@@ -13,13 +13,13 @@
 		<Metadata name="CommonModule.PEN006_МодификацияИнтерфейсаСервер" id="85c9b1c0-50c6-4c14-ba39-8fb2e786100c" configVersion="acfd79425c9b20e9a77ddc30ac4302da1a39377a"/>
 		<Metadata name="CommonModule.PEN006_МодификацияИнтерфейсаСервер.Module" id="85c9b1c0-50c6-4c14-ba39-8fb2e786100c.0" configVersion="08c8eca63ceac09b2d3457b8b5b233c4a6ff7592"/>
 		<Metadata name="CommonModule.PEN006_ОбщийМодульВызовСервера" id="9489abfe-add4-431d-9e57-43909e0e6398" configVersion="37087176779bbd73164e25a9d390c8e5e61f65c9"/>
-		<Metadata name="CommonModule.PEN006_ОбщийМодульВызовСервера.Module" id="9489abfe-add4-431d-9e57-43909e0e6398.0" configVersion="a2d143a9b0cad967c35b322058bec0e6a06195d9"/>
+		<Metadata name="CommonModule.PEN006_ОбщийМодульВызовСервера.Module" id="9489abfe-add4-431d-9e57-43909e0e6398.0" configVersion="069c4cc34596637c5c615c92e01eee9d14c41bd1"/>
 		<Metadata name="CommonModule.PEN006_ОбщийМодульКлиент" id="1022381e-558b-4263-8cc6-2d67676e5570" configVersion="f659332e0340673c5f987ac7cbee81e2d8e03fed"/>
-		<Metadata name="CommonModule.PEN006_ОбщийМодульКлиент.Module" id="1022381e-558b-4263-8cc6-2d67676e5570.0" configVersion="10c59d0566e8a1d97333ae71e7a2c8d45a78546e"/>
+		<Metadata name="CommonModule.PEN006_ОбщийМодульКлиент.Module" id="1022381e-558b-4263-8cc6-2d67676e5570.0" configVersion="c8ecf0074f5ea806758e188bcae4c9c8001fe5b1"/>
 		<Metadata name="CommonModule.ОтправкаПочтовыхСообщенийКлиент" id="d06c0f55-015e-4184-b3c4-b4ac2fbc189e" configVersion="c77caa1b432871e3e61a0ee2941c90af45665707"/>
 		<Metadata name="CommonModule.ОтправкаПочтовыхСообщенийКлиент.Module" id="d06c0f55-015e-4184-b3c4-b4ac2fbc189e.0" configVersion="a896a253f3f7a0e793eab63a199bc1e7022bade7"/>
-		<Metadata name="CommonModule.УправлениеПечатьюКлиентПереопределяемый" id="6e89935c-f12c-454d-b868-dec86c71f352" configVersion="7a1e6bc6192b0601d32e3658917e3314e14f818b"/>
-		<Metadata name="CommonModule.УправлениеПечатьюКлиентПереопределяемый.Module" id="6e89935c-f12c-454d-b868-dec86c71f352.0" configVersion="f637f8dda10bb2a02f25a8fd0c9ff11f3de9bd4c"/>
+		<Metadata name="CommonModule.УправлениеПечатьюКлиентПереопределяемый" id="6e89935c-f12c-454d-b868-dec86c71f352" configVersion="51c2b69e36cef7c023f8976f1051392afb0e968e"/>
+		<Metadata name="CommonModule.УправлениеПечатьюКлиентПереопределяемый.Module" id="6e89935c-f12c-454d-b868-dec86c71f352.0" configVersion="ce9f9fbc03bd88eb66f1e74e6d5a50b44eee6e40"/>
 		<Metadata name="CommonPicture.PEN006_email" id="01ae6741-f068-4ad5-b248-fbc7d9b57a86" configVersion="51daa0c61d8ce084816d3e11d8b84377661e1d2b"/>
 		<Metadata name="CommonPicture.PEN006_email.Picture" id="01ae6741-f068-4ad5-b248-fbc7d9b57a86.0" configVersion="8838d42810196cb73b0da86cf32a66f90f398a14"/>
 		<Metadata name="CommonPicture.PEN006_КартинкаПочта" id="a8405494-b91e-4f3c-84b7-11f36883f512" configVersion="f6560ce11b9a5033ed8c63eb8b66afcee69274fb"/>
@@ -32,13 +32,13 @@
 		<Metadata name="CommonPicture.Отчеты" id="f23e15d8-9706-4337-8715-d9c738e7a370" configVersion="46a381938d378ad242442d62ccfbf280688831e3"/>
 		<Metadata name="CommonPicture.Скрепка" id="cdd698f0-a559-4f8b-b206-0f4fe158fdd5" configVersion="503eb5f2403a88f87557570443e414208597d5ef"/>
 		<Metadata name="CommonPicture.СостоянияДокумента" id="a05caedd-d24b-4032-95db-31ebeadc66a9" configVersion="5e1789ba4651017e829c797a2081c7a60aa6e4f0"/>
-		<Metadata name="Configuration.PEN006_BUH_POST" id="9a6af253-1de6-4a33-9ee5-ad74032b32e8" configVersion="8ee2f60ae8955cd08676ee40f40c326a81b11353"/>
+		<Metadata name="Configuration.PEN006_BUH_POST" id="9a6af253-1de6-4a33-9ee5-ad74032b32e8" configVersion="b8c2631c827ce3ce563c6c51e27813fc00034824"/>
 		<Metadata name="Document.РеализацияТоваровУслуг" id="864bf5b1-5500-48bc-b25f-53498f0c2f8a" configVersion="24296bd3784e4e1b8f1b6ce5d3e7612f320962d2"/>
-		<Metadata name="Document.РеализацияТоваровУслуг.Form.ФормаСписка" id="76844c72-dfa4-42d8-9325-6b140dcf41a1" configVersion="514fc4620b3bae566f0d5999cf3d4d509df86ecd"/>
-		<Metadata name="Document.РеализацияТоваровУслуг.Form.ФормаСписка.Form" id="76844c72-dfa4-42d8-9325-6b140dcf41a1.0" configVersion="9fdb79ecf2bb2b7902ae22908090d4798bd67e27"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.Form.ФормаСписка" id="76844c72-dfa4-42d8-9325-6b140dcf41a1" configVersion="096316a8f5f55834fdd45d732e1b5536c342784f"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.Form.ФормаСписка.Form" id="76844c72-dfa4-42d8-9325-6b140dcf41a1.0" configVersion="fc2ba268ea500d2dace97e84b0bfee9df29ba84f"/>
 		<Metadata name="Document.СчетНаОплатуПокупателю" id="bc7a59ff-bc8a-46a5-b7f5-24bd1afd9193" configVersion="9be6979a9b5697cacc656cdd064efe8b2ee9ec69"/>
-		<Metadata name="Document.СчетНаОплатуПокупателю.Form.ФормаСписка" id="a82e3b52-8ee8-4f23-b786-e7ed18d6a7c7" configVersion="aff90bf81e25556412cbd7ef72ec8944953fb4dd"/>
-		<Metadata name="Document.СчетНаОплатуПокупателю.Form.ФормаСписка.Form" id="a82e3b52-8ee8-4f23-b786-e7ed18d6a7c7.0" configVersion="8367e282c85ca238f3a27fc236fe2f17ffc08322"/>
+		<Metadata name="Document.СчетНаОплатуПокупателю.Form.ФормаСписка" id="a82e3b52-8ee8-4f23-b786-e7ed18d6a7c7" configVersion="0dad7c684922d5f1e881d23c0c07b4f183e77953"/>
+		<Metadata name="Document.СчетНаОплатуПокупателю.Form.ФормаСписка.Form" id="a82e3b52-8ee8-4f23-b786-e7ed18d6a7c7.0" configVersion="847135df1edbb4e24ad885144af17ccf7833deb8"/>
 		<Metadata name="InformationRegister.ДополнительныеСведения" id="02109873-4fa1-4f8b-8154-cce4ebfac491" configVersion="b46b893c6e60fdfee07c53224448d6c71c409489"/>
 		<Metadata name="Language.Русский" id="cd3eb32b-df88-4aa5-8e91-1e7cf13a7358" configVersion="169f7a34249e45d749c5ad4eecad04d9c09741b5"/>
 		<Metadata name="Role.ДобавлениеИзменениеДанныхБухгалтерии" id="2917c998-0532-4d91-a00d-bcb845f171d8" configVersion="efed5640aa6cd23a237dea77fe9345d03c44aedf"/>
